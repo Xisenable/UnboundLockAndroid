@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="hrw.es.unboundlock.MainActivity">
+    <item
+        android:id="@+id/menuLogout"
+        android:enabled="true"
+        android:title="@string/menu_logout" />
+</menu>

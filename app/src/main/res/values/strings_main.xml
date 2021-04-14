@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toggleButtonOn">Close</string>
+    <string name="toggleButtonOff">Open</string>
+    <string name="lock">Lock</string>
+    <string name="lastUpdate">Last update from the lock</string>
+    <string name="lastUpdateInterval">Notify me when the last update is n seconds ago</string>
+    <string name="lastUpdateIntervalButton">Set</string>
+
+</resources>

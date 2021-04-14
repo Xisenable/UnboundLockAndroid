@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Login</string>
+    <string name="loginActivityTitle">Login</string>
+    <string name="loginActivityConnect">Connect</string>
+    <string name="loginActivityURL">Server URL</string>
+    <string name="loginActivityUsername">Username</string>
+    <string name="loginActivityPassword">Password</string>
+    <string name="loginActivityLockID">Lock ID</string>
+    <string name="loginActivitySaveCredentials">Remember me</string>
+    <string name="loginActivityAutomaticLogin">Auto login</string>
+
+    <string name="predefineHost">hrw-fablab.de</string>
+    <string name="predefinePort">1883</string>
+    <string name="predefineLockID">23</string>
+    <string name="predefineUsername">gruppe8</string>
+    <string name="predefinePassword">q3M@qGRXzEskj5UK</string>
+    <string name="version">v0.0.0.0.3</string>
+
+    <string-array name="spinnerArtContent">
+        <item>tcp://</item>
+        <item>ws://</item>
+        <item>mqtt://</item>
+        <item>ssl://</item>
+    </string-array>
+
+</resources>
